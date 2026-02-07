@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <title>Live Draw HK — Portal Informasi, Jadwal, dan Akses Resmi</title>
+  <meta name="description" content="Portal ringkas Live Draw HK: jadwal, cara cek result, dan pembaruan. Halaman ringan, cepat dibuka, dan terstruktur untuk indeks mesin pencari." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://freshmilk553-stack.github.io/salmon/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Live Draw HK — Portal Informasi, Jadwal, dan Akses Resmi" />
+  <meta property="og:description" content="Jadwal, panduan cek result, dan pembaruan." />
+  <meta property="og:url" content="https://freshmilk553-stack.github.io/salmon/" />
+
+  <meta name="theme-color" content="#0b1f3a" />
+
+  <style>
+    :root{--bg:#f6f8fb;--card:#fff;--text:#0b1220;--muted:#4b5563;--brand:#0b1f3a;--brand2:#0e3a67;--line:#e5e7eb;--shadow:0 10px 25px rgba(11,31,58,.08);--radius:14px;--max:1040px;}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;color:var(--text);background:linear-gradient(180deg,#eef3fb 0%,var(--bg) 40%,var(--bg) 100%);line-height:1.65}
+    a{color:var(--brand2);text-decoration:none} a:hover{text-decoration:underline}
+    a:focus{outline:3px solid rgba(37,99,235,.35);outline-offset:3px;border-radius:10px}
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 18px}
+    header{background:radial-gradient(1200px 520px at 20% 0%, rgba(37,99,235,.18), transparent 60%),linear-gradient(180deg, rgba(11,31,58,.98), rgba(11,31,58,.92));color:#fff;border-bottom:1px solid rgba(255,255,255,.12)}
+    .topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 0;gap:12px}
+    .brand{display:flex;align-items:center;gap:12px;font-weight:700;letter-spacing:.2px}
+    .logo{width:38px;height:38px;border-radius:10px;background:linear-gradient(145deg,#1d4ed8,#0ea5e9);box-shadow:0 10px 20px rgba(0,0,0,.18);position:relative}
+    .logo:after{content:"";position:absolute;inset:9px 10px 10px 9px;border:2px solid rgba(255,255,255,.75);border-left:0;border-top:0;border-radius:6px;transform:rotate(-8deg);opacity:.85}
+    nav a{color:rgba(255,255,255,.9);padding:8px 10px;border-radius:10px}
+    nav a:hover{background:rgba(255,255,255,.08);text-decoration:none}
+    .hero{padding:34px 0 22px}
+    .hero h1{font-size:clamp(26px,3.3vw,44px);line-height:1.15;margin:0 0 10px;letter-spacing:-.4px}
+    .hero p{margin:0;color:rgba(255,255,255,.86);max-width:78ch}
+    main{padding:22px 0 64px}
+    .grid{display:grid;grid-template-columns:1.2fr .8fr;gap:18px}
+    @media (max-width: 920px){.grid{grid-template-columns:1fr}}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+    .hd{padding:16px 16px 12px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#fff,#fbfcff)}
+    .hd h2{margin:0;font-size:16px}
+    .bd{padding:16px}
+    .muted{color:var(--muted)}
+    .list{margin:0;padding:0;list-style:none;display:grid;gap:12px}
+    .item{border:1px solid var(--line);border-radius:12px;padding:12px;background:#fff}
+    .item a{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;text-decoration:none;color:inherit}
+    .pill{font-size:12px;padding:6px 10px;border-radius:999px;border:1px solid var(--line);color:var(--brand2);background:#f3f7ff;white-space:nowrap}
+    .note{font-size:14px;background:#f8fafc;border:1px dashed #cbd5e1;padding:12px;border-radius:12px}
+    .k{display:inline-block;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:12.5px;padding:2px 6px;border:1px solid var(--line);border-radius:8px;background:#fff}
+    footer{border-top:1px solid var(--line);background:#fff;padding:18px 0;color:var(--muted);font-size:13px}
+    .footer-row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+    .upd{display:grid;gap:10px}
+    .upd .u{border:1px solid var(--line);border-radius:12px;padding:10px 12px;background:#fff}
+    .upd .u strong{display:block}
+    .upd .u small{display:block;color:var(--muted);margin-top:4px}
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebPage",
+    "name":"Live Draw HK — Portal Informasi",
+    "url":"https://freshmilk553-stack.github.io/salmon/",
+    "inLanguage":"id-ID",
+    "about":[{"@type":"Thing","name":"Live Draw HK"},{"@type":"Thing","name":"Result HK"}]
+  }
+  </script>
+</head>
+
+<body>
+  <header>
+    <div class="wrap">
+      <div class="topbar">
+        <div class="brand">
+          <div class="logo" aria-hidden="true"></div>
+          <div>
+            <div style="font-size:14px;opacity:.9;font-weight:700;">Portal Live Draw HK</div>
+            <div style="font-size:12px;opacity:.75;">Informasi • Panduan • Pembaruan</div>
+          </div>
+        </div>
+        <nav>
+          <a href="#tautan">Tautan</a>
+          <a href="#pembaruan">Pembaruan</a>
+          <a href="panduan.html">Panduan</a>
+        </nav>
+      </div>
+
+      <section class="hero">
+        <h1>Live Draw HK: Akses Resmi & Pembaruan</h1>
+        <p>Portal ringkas untuk membantu pengunjung mengakses sumber utama dan memahami info penting secara cepat.</p>
+      </section>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+      <div class="grid">
+        <section class="card" id="tautan">
+          <div class="hd"><h2>Tautan utama</h2></div>
+          <div class="bd">
+            <ul class="list">
+              <li class="item">
+                <a href="https://bloggeressentials.site/" target="_blank" rel="noopener noreferrer">
+                  <div>
+                    <strong>Live Draw HK (Sumber Utama)</strong>
+                    <small>Akses live draw & pembaruan result.</small>
+                  </div>
+                  <span class="pill">Buka</span>
+                </a>
+              </li>
+              <li class="item">
+                <a href="panduan.html">
+                  <div>
+                    <strong>Panduan & FAQ</strong>
+                    <small>Ringkasan cara cek dan tips akses stabil.</small>
+                  </div>
+                  <span class="pill">Baca</span>
+                </a>
+              </li>
+            </ul>
+
+            <div class="note" style="margin-top:14px">
+              Untuk kualitas SEO yang aman, halaman ini menyertakan konteks dan pembaruan (bukan hanya daftar tautan).
+            </div>
+          </div>
+        </section>
+
+        <aside class="card" id="pembaruan" aria-live="polite">
+          <div class="hd"><h2>Pembaruan otomatis</h2></div>
+          <div class="bd">
+            <p class="muted" style="margin-top:0">
+              Bagian ini mengambil data dari <span class="k">updates.json</span>. Jika file itu di-update (otomatis/terjadwal),
+              halaman ikut terlihat aktif.
+            </p>
+
+            <div id="updates" class="upd">
+              <div class="u">
+                <strong>Memuat pembaruan…</strong>
+                <small>Jika tidak muncul, pastikan updates.json ada di root repo.</small>
+              </div>
+            </div>
+
+            <div class="note" style="margin-top:14px">
+              <strong>Tips:</strong> Update “Pembaruan” mingguan + submit URL di Search Console biasanya paling efektif.
+            </div>
+
+            <div class="note" style="margin-top:14px">
+              <div><strong>URL Pages:</strong></div>
+              <div class="k">https://freshmilk553-stack.github.io/salmon/</div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div class="footer-row">
+        <div>© <span id="y"></span> Portal Live Draw HK</div>
+        <div class="muted">Statis • ringan • cepat</div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+
+    async function loadUpdates(){
+      try{
+        const res = await fetch("updates.json", { cache: "no-store" });
+        if(!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+
+        const el = document.getElementById("updates");
+        const items = Array.isArray(data.items) ? data.items : [];
+        if(items.length === 0){
+          el.innerHTML = '<div class="u"><strong>Belum ada pembaruan</strong><small>Tambahkan item baru di updates.json.</small></div>';
+          return;
+        }
+
+        const html = items.slice(0, 5).map(it => {
+          const date = it.date ? new Date(it.date + "T00:00:00") : null;
+          const dateStr = date && !isNaN(date) ? date.toLocaleDateString("id-ID",{year:"numeric",month:"long",day:"numeric"}) : (it.date || "");
+          const title = it.title || "Pembaruan";
+          const summary = it.summary || "";
+          return `<div class="u">
+              <strong>${escapeHtml(title)}</strong>
+              <small>${escapeHtml(dateStr)} — ${escapeHtml(summary)}</small>
+            </div>`;
+        }).join("");
+
+        el.innerHTML = html;
+      }catch(e){
+        document.getElementById("updates").innerHTML =
+          '<div class="u"><strong>Gagal memuat updates</strong><small>Cek file updates.json sudah ada & valid JSON.</small></div>';
+      }
+    }
+
+    function escapeHtml(s){
+      return String(s).replace(/[&<>"']/g, (m)=>({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;" }[m]));
+    }
+
+    loadUpdates();
+  </script>
+</body>
+</html>
