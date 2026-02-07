@@ -1,0 +1,75 @@
+name: Auto Update Portal
+
+on:
+  schedule:
+    - cron: "15 2 * * *"   # jalan tiap hari 02:15 UTC (09:15 WIB)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update updates.json
+        run: |
+          set -e
+          DATE="$(date -u +%Y-%m-%d)"
+          TITLE="Pembaruan harian"
+          SUMMARY="Pembaruan rutin portal. Silakan cek sumber utama untuk info terbaru."
+
+          if [ ! -f updates.json ]; then
+            cat > updates.json <<EOF
+          {
+            "title": "Pembaruan",
+            "items": []
+          }
+          EOF
+          fi
+
+          node - <<'NODE'
+          const fs = require('fs');
+          const path = 'updates.json';
+          const data = JSON.parse(fs.readFileSync(path,'utf8'));
+          data.items = Array.isArray(data.items) ? data.items : [];
+          const DATE = process.env.DATE;
+          const TITLE = process.env.TITLE;
+          const SUMMARY = process.env.SUMMARY;
+
+          // jangan duplikat tanggal yang sama
+          if (!data.items.some(x => x.date === DATE && x.title === TITLE)) {
+            data.items.unshift({ date: DATE, title: TITLE, summary: SUMMARY });
+          }
+
+          // batasi 30 item biar tetap ringan
+          data.items = data.items.slice(0, 30);
+          fs.writeFileSync(path, JSON.stringify(data, null, 2));
+          NODE
+        env:
+          DATE: ${{ env.DATE }}
+          TITLE: ${{ env.TITLE }}
+          SUMMARY: ${{ env.SUMMARY }}
+
+      - name: Update sitemap lastmod (optional)
+        run: |
+          if [ -f sitemap.xml ]; then
+            # (opsional) tidak semua sitemap pakai lastmod, jadi dilewati jika format beda
+            echo "sitemap.xml exists, keeping as-is"
+          fi
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add updates.json
+          git status
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: daily content update"
+          git push
