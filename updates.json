@@ -2,6 +2,11 @@
   "title": "Pembaruan",
   "items": [
     {
+      "date": "2026-07-02",
+      "title": "Pembaruan harian",
+      "summary": "Pembaruan rutin portal. Silakan cek sumber utama untuk info terbaru."
+    },
+    {
       "date": "2026-07-01",
       "title": "Pembaruan harian",
       "summary": "Pembaruan rutin portal. Silakan cek sumber utama untuk info terbaru."
@@ -143,11 +148,6 @@
     },
     {
       "date": "2026-06-03",
-      "title": "Pembaruan harian",
-      "summary": "Pembaruan rutin portal. Silakan cek sumber utama untuk info terbaru."
-    },
-    {
-      "date": "2026-06-02",
       "title": "Pembaruan harian",
       "summary": "Pembaruan rutin portal. Silakan cek sumber utama untuk info terbaru."
     }
